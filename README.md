@@ -3,6 +3,7 @@ My first project on the github - blog create with flask
 
 Tasks what was done
 
+
 1.Install venv
 
 2.Update python
@@ -25,6 +26,7 @@ Tasks what was done
 
 
 Task what need done
+
 
 1.Make the project installeble
 
